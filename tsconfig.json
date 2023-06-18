@@ -8,7 +8,10 @@
     ],
     "baseUrl": "src",
     "paths": {
-      "components/*": ["components/*", "components"]
+      "components/*": ["components/*", "components"],
+      "utils/*": ["utils/*", "utils"],
+      "api/*": ["api/*", "api"],
+      "context/*": ["context/*", "context"],
     },
     "allowJs": true,
     "skipLibCheck": true,

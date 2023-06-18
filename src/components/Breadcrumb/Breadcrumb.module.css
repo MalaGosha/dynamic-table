@@ -1,0 +1,14 @@
+.BreadcrumbContainer {
+    display: flex;
+    max-height: 90%;
+    max-width: 95%;
+    margin-top: 25px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.BreadcrumbItem {
+    font-weight: bold;
+}

@@ -21,8 +21,10 @@ showing books written by this author.
 
 ## Packages:
 * react-dom: ^18.2.0
-* react-router-dom: ^6.12.1
 * material UI: ^5.13.4
+* mui/styled-engine-sc: ^5.12.0
+* emotion/react: ^11.11.1
+* emotion/styled: 11.11.0
 * react-redux: ^8.1.0
 
 
